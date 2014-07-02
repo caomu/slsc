@@ -2,7 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
+<<<<<<< HEAD:slsc-web/pom.xml
 		<groupId>com.caomu.slsc</groupId>
+=======
+		<groupId>com.caomu</groupId>
+>>>>>>> ba07ec67607d3b42242db924d275c8bfb1eb856e:slsc-war/pom.xml
 		<artifactId>slsc</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
